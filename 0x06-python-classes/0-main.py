@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-Rectangle = __import__('0-rectangle').Rectangle
+Square = __import__('0-square').Square
 
-my_rectangle = Rectangle()
-print(type(my_rectangle))
-print(my_rectangle.__dict__)
+my_square = Square()
+print(type(my_square))
+print(my_square.__dict__)
