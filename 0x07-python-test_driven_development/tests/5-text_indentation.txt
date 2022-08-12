@@ -24,7 +24,7 @@ Now use it:
     abc      .
     <BLANKLINE>
     def.
-    
+
     >>> text_indentation('abc..def')
     abc.
     <BLANKLINE>
